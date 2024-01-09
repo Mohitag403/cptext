@@ -14,4 +14,3 @@ helper
 psutil
 py-tgcalls==0.6.0
 Crypto
-base64
